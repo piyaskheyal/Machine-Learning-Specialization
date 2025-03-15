@@ -1,0 +1,4 @@
+# Topic Needs to be noted
+Feature Scaling
+Mean Normalization
+Z-score Normalization
