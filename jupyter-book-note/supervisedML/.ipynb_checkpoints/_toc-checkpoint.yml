@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: Cost_Function
+- file: Feature_scaling
+- file: Gradient_descent
+- file: Standard_deviation
+- file: Logistic_regression
+- file: Cost_Function_for_Logistic_Regression
+- file: Gradient_descent_for_logistic_regression
